@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Craig
 #### I am a student nestled in the realm of 0s and 1s
-![I am a student nestled in the realm of 0s and 1s]
-(https://w0.peakpx.com/wallpaper/106/365/HD-wallpaper-code-minimalist-programmer.jpg)
+![I am a student nestled in the realm of 0s and 1s](https://w0.peakpx.com/wallpaper/106/365/HD-wallpaper-code-minimalist-programmer.jpg)
 
 
 Skills: C/C++/PYTHON/ HTML / CSS
