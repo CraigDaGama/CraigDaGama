@@ -1,3 +1,4 @@
+!(![ergsrs](https://github.com/CraigDaGama/CraigDaGama/assets/139835550/8b0727b8-ad33-4000-b611-c0dd5f421935)
 <h1 align="center">Hi 👋, I'm Craig Da Gama</h1>
 <h3 align="center">I am a student living in the world of 0s and 1s</h3>
 
