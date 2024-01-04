@@ -1,6 +1,5 @@
-(https://w0.peakpx.com/wallpaper/106/365/HD-wallpaper-code-minimalist-programmer.jpg)
 <h1 align="center">Hi 👋, I'm Craig Da Gama</h1>
-<h3 align="center">I am a student living in the world of 0s and 1s</h3>
+<h3 align="center">I am a student living in the world of 0s and 1s</h3>(https://w0.peakpx.com/wallpaper/106/365/HD-wallpaper-code-minimalist-programmer.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=craigdagama&label=Profile%20views&color=0e75b6&style=flat" alt="craigdagama" /> </p>
 
